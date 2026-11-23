@@ -280,7 +280,7 @@ Dos riesgos altos (R1 y R2) → **reserva del 15 %**, como en la receta del Spri
 
 | Fecha | Paso | Responsable |
 |---|---|---|
-| 22 de noviembre | Comentario del equipo en #201 y pedir la asignación de #168 | @DaisyOrtiz2 |
+| 22 de noviembre |  Comentario del equipo en #201 (hecho). Pedir la asignación de #168 | @DaisyOrtiz2 |
 | 23 de noviembre | Crear la rama `fix/issue-168-ia-sugiere` | @DiegoLV117 |
 | 24 de noviembre | Casos de prueba escritos (prevención) | @elisa1223 |
 | 25 de noviembre | Plan de informe (#219) y borrador de carta (#220) en PR | @elisa1223 · @Yare-mon |
